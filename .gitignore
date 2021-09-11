@@ -1,6 +1,6 @@
-assets/*
-!assets/.gitignore
-protected/runtime/*
-!protected/runtime/.gitignore
-protected/data/*.db
-themes/classic/views/
+### Yii2 Package ###
+
+# Mac DS_Store Files
+.DS_Store
+
+/z_gitignore
